@@ -58,11 +58,11 @@ Item p_i E[count] p_i\*E[count] avg_cost
 | Gravel           | 0.0871  | 12.00     | 1.046        | 0.956    |
 | Blackstone       | 0.0871  | 12.00     | 1.046        | 0.956    |
 
-Summary:
-Expected items per barter: 5.662
-Expected items per second: 0.944
-Expected items per minute: 56.6
-Hopper load fraction: 37.7% of one hopper capacity
+Summary:  
+Expected items per barter: 5.662  
+Expected items per second: 0.944  
+Expected items per minute: 56.6  
+Hopper load fraction: 37.7% of one hopper capacity  
 
 ## Bedrock 1.21.120
 
@@ -90,8 +90,8 @@ Note: I do not play bedrock, and the only differences I am aware of in this care
 | Gravel           | 0.0871  | 12.00     | 1.046        | 0.956    |
 | Blackstone       | 0.0871  | 12.00     | 1.046        | 0.956    |
 
-Summary:
-Expected items per barter: 5.662
-Expected items per second: 0.708
-Expected items per minute: 42.5
-Hopper load fraction: 28.3% of one hopper capacity
+Summary:  
+Expected items per barter: 5.662  
+Expected items per second: 0.708  
+Expected items per minute: 42.5  
+Hopper load fraction: 28.3% of one hopper capacity  
